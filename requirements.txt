@@ -1,0 +1,11 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pyjwt>=2.9
+argon2-cffi>=23.1
+pydantic-settings>=2.4
+pydantic[email]>=2.7
+python-multipart>=0.0.9
+httpx>=0.27
+# testes
+pytest>=8
+aiosmtpd>=1.4
